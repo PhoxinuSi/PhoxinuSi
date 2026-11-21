@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привет! Я Семён Гальянов 👋
+🎓 Студент 2 курса НИУ ИТМО
+📊 Начинающий аналити данных (Data Analyst)
 
-<!--
-**PhoxinuSi/PhoxinuSi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Технический стек
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **SQL:** PostgreSQL join, подзапросы, оконные функции
+- **Визуализация данных:** Plolty, Streamlit
+- **Инструменты:** Git, Excel
+- **Языки:** Английский С1; Французский B2
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Избранные проекты
+- [Анализ данных Spotify](https://github.com/PhoxinuSi/Spotify-analysis.git) - EDA, Machine-learning
