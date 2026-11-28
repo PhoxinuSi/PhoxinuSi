@@ -1,9 +1,9 @@
 # Привет! Я Семён Гальянов 👋
 🎓 Студент 2 курса НИУ ИТМО
-📊 Начинающий аналити данных (Data Analyst)
+📊 Начинающий Data Scientist
 
 ## Технический стек
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Python:** Pandas, pyTorch, Matplotlib, Seaborn, Sklearn, CatBoost
 - **SQL:** PostgreSQL join, подзапросы, оконные функции
 - **Визуализация данных:** Plolty, Streamlit
 - **Инструменты:** Git, Excel
